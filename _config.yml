@@ -6,7 +6,7 @@ header_pages:
   - index.md
   - about.md
 
-#footer: 'follow us on <a href="https://twitter.com/">twitter</a>'
+footer: '&copy; 2019 - <a href="https://github.com/hec0/" target="_blank">hec0</a> All Rights Reserved.'
 
 #style: light # dark (default) or light
 #listen_for_clients_preferred_style: true # true or false (default)
