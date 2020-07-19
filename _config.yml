@@ -4,9 +4,10 @@
 
 header_pages:
   - index.md
+  - essays.md
   - about.md
 
-footer: '&copy; 2019 - <a href="https://github.com/hr0x/" target="_blank">hr0x</a> All Rights Reserved.'
+footer: '&copy; 2020 - <a href="https://github.com/hr0x/" target="_blank">hr0x</a> All Rights Reserved.'
 
 #style: light # dark (default) or light
 #listen_for_clients_preferred_style: true # true or false (default)
