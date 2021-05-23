@@ -8,6 +8,4 @@ permalink: /r/
 
 
 ## Free Books
-
-
-Big Book of R (O. Bruffa): https://www.bigbookofr.com/
+- [Big Book of R (O. Bruffa)](https://www.bigbookofr.com/)
